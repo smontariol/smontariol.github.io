@@ -41,8 +41,8 @@ Reviews
   
 Software skills
 ======
-* **Statistical software**: R, Matlab, SAS, SPAD, PowerBI
-* **Programming software**: Python, Java, C++, SQL, VBA, UML
+* **Data analysis**: R, Matlab, SAS, SPAD, PowerBI
+* **Programming**: Python, Java, C++, SQL, VBA, UML
 
 Languages
 ======
