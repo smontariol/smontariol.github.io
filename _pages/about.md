@@ -11,4 +11,4 @@ redirect_from:
 My research work lies between statistics, natural language processing and machine learning.
 I did my PhD at [LISN](https://www.limsi.fr/en/) and University Paris-Saclay, under the supervision of [Alexandre Allauzen](https://allauzen.github.io/), on computational models of diachronic semantic change.
 
-I am now a post-doctoral researcher at INRIA Paris, in the [Almanach Team](http://almanach.inria.fr/), on designing models to detect radicalisation in social media.
+I am now a post-doctoral researcher at INRIA Paris, in the [Almanach Team](http://almanach.inria.fr/), designing models to detect radicalisation in social media.
