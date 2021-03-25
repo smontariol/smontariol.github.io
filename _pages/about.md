@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at [LIMSI](https://www.limsi.fr/en/) and University Paris-Saclay, under the supervision of [Alexandre Allauzen](https://allauzen.github.io/). My PhD is funded by [Societe Generale](https://www.societegenerale.com/en).
 
-My research work lies between statistics, natural language processing and machine learning. My PhD thesis aims to design models capturing the evolution of language. 
-I am especially fond of working with time series! And currently looking for a post-doc starting early 2021.
+My research work lies between statistics, natural language processing and machine learning.
+I did my PhD at [LISN](https://www.limsi.fr/en/) and University Paris-Saclay, under the supervision of [Alexandre Allauzen](https://allauzen.github.io/), on computational models of diachronic semantic change.
+
+I am now a post-doctoral researcher at INRIA Paris, in the [Almanach Team](http://almanach.inria.fr/), on designing models to detect radicalisation in social media.

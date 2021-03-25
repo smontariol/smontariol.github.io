@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syrielle Montariol"
 title_separator          : "-"
 name                     : &name "Syrielle Montariol"
-description              : &description "PhD student at LIMSI and University Paris-Saclay"
+description              : &description "Post-doctoral researcher at INRIA"
 url                      :  https://smontariol.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smontariol/smontariol.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             :  "Syrielle Montariol"
   avatar           : "profil.png"
-  bio              : "PhD student at LIMSI and University Paris-Saclay"
+  bio              : "Post-doctoral researcher at INRIA"
   location         : "Paris, France"
   employer         : 
   pubmed           : 
   googlescholar    : "citations?user=oM63nTMAAAAJ&hl=en"
-  email            : "syrielle.montariol@limsi.fr"
+  email            : "syrielle.montariol@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
