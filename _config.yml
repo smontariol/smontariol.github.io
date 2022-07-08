@@ -82,12 +82,12 @@ analytics:
 author:
   name             :  "Syrielle Montariol"
   avatar           : "profil.png"
-  bio              : "Post-doctoral researcher at INRIA"
-  location         : "Paris, France"
+  bio              : "Post-doctoral researcher"
+  location         : "France"
   employer         : 
   pubmed           : 
   googlescholar    : "citations?user=oM63nTMAAAAJ&hl=en"
-  email            : "syrielle.montariol@inria.fr"
+  email            : "syrielle.montariol@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :

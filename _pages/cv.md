@@ -23,7 +23,7 @@ Work experience
   * Causal discovery, multi-task classification.
 
 * **March 2021 - May 2022: Post-doctoral researcher**, Almanach Team, INRIA Paris
-  * Low-resource cross-lingual transfer, multi-modal classification, graph models for social network modeling.
+  * Low-resource cross-lingual transfer for hate seech detection, multi-modal memes classification, temporal graph neural networks for community detection and social network modeling.
 
 * **January 2018 - February 2021: CIFRE PhD** in partnership with Societe Generale, Paris, France.
   * NLP for the financial domain.
@@ -44,17 +44,21 @@ Work experience
 Professional service
 ======
 * Reviewer for:
-  * Conferences: COLING/EMNLP/*ACL, CMCL and Semeval workshop.
+  * Conferences: COLING/EMNLP/*ACL, and workshops (CMCL, Semeval, LChange, MIDAS).
   * Book: Computational Approaches to Semantic Change, Language Variation series, LangSci.
 
-* Co-organiser of the 2nd and 3rd International Workshop on Computational Approaches toHistorical Language Change (LChange).
+* Co-organiser of the 2nd and 3rd International Workshop on Computational Approaches to Historical Language Change (LChange), at ACL 2021 and 2022.
 
-* Member of the Professional Conduct Committee of the Association for Computational Linguistics.
+* Member of the Professional Conduct Committee of the Association for Computational Linguistics since 04/2021.
 
 Teaching
 ======
-* 
-* 
+2021 - 2022:
+* National School for Statistics and Information Analysis, M2-level, 24 hours of lab sessions for the Text Mining and web scrapping class.
+* Dauphine-PSL University and École Polytechnique: Organisation of the Data science challenge on stock price prediction using textual data, M2-level. 24h of lectures + lab sessions.
+2020 - 2021:
+* Machine Learning and AI for Economics and Finance Summer school, Université Paris Dauphine. level: M2 & PhD, course: Advanced NLP for Finance, hours: 3
+
 
 Software skills
 ======
