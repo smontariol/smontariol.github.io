@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syrielle Montariol"
 title_separator          : "-"
 name                     : &name "Syrielle Montariol"
-description              : &description "Post-doctoral researcher at INRIA"
+description              : &description "Post-doctoral researcher in Natural Language Processing"
 url                      :  https://smontariol.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smontariol/smontariol.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             :  "Syrielle Montariol"
   avatar           : "profil.png"
-  bio              : "Post-doctoral researcher"
+  bio              : "Post-doctoral researcher in Natural Language Processing"
   location         : "France"
   employer         : 
   pubmed           : 

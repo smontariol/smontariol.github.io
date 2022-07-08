@@ -23,13 +23,15 @@ Work experience
   * Causal discovery, multi-task classification.
 
 * **March 2021 - May 2022: Post-doctoral researcher**, Almanach Team, INRIA Paris
-  * Low-resource cross-lingual transfer for hate seech detection, multi-modal memes classification, temporal graph neural networks for community detection and social network modeling.
+  * Low-resource cross-lingual transfer for hate seech detection;
+  * Multi-modal memes classification;
+  * Temporal graph neural networks for community detection and social network modeling.
 
 * **January 2018 - February 2021: CIFRE PhD** in partnership with Societe Generale, Paris, France.
   * NLP for the financial domain.
 
 * **September 2019 - February 2020: Research Intern**, National Institute of Informatics (NII), Tokyo, Japan.
-  * Under the supervision of Pr. Asanobu Kitamoto.
+  * Under the supervision of Pr. Asanobu Kitamoto;
   * Semantics for Crisis Informatics.
 
 * **April - September 2017: Data Scientist Intern**, Risks Department, Société Générale, Paris, France
@@ -53,11 +55,12 @@ Professional service
 
 Teaching
 ======
-2021 - 2022:
-* National School for Statistics and Information Analysis, M2-level, 24 hours of lab sessions for the Text Mining and web scrapping class.
-* Dauphine-PSL University and École Polytechnique: Organisation of the Data science challenge on stock price prediction using textual data, M2-level. 24h of lectures + lab sessions.
-2020 - 2021:
-* Machine Learning and AI for Economics and Finance Summer school, Université Paris Dauphine. level: M2 & PhD, course: Advanced NLP for Finance, hours: 3
+* 2021 - 2022:
+  * National School for Statistics and Information Analysis, Level: M2, 24 hours of lab sessions for the Text Mining and web scrapping class.
+  * Dauphine-PSL University and École Polytechnique: Organisation of the Data science challenge on stock price prediction using textual data, Level: M2. 24h of lectures + lab sessions.
+
+* 2020 - 2021:
+  * Machine Learning and AI for Economics and Finance Summer school, Université Paris Dauphine. Level: M2 & PhD, course: Advanced NLP for Finance. 3 hours of lecture.
 
 
 Software skills
@@ -68,7 +71,7 @@ Software skills
 Languages
 ======
 * French: Native
-* English: Advanced (TOEIC : 990/990)
+* English: Fluent
 * German:  Level B1, CEFR
 * Chinese: Intermediate oral
 * Japanese: Basic knowledge 
